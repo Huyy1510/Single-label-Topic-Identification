@@ -15,4 +15,4 @@ We apply **weighted loss** to handle class imbalance and evaluate on the officia
 | Recall       | 0.66   |
 
 ### Example Predictions
-![Demo Predictions](assets/demo.png)
+![Demo Predictions](https://github.com/Huyy1510/Single-label-Topic-Identification/blob/main/assests/Example.png)
